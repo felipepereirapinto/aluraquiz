@@ -5,24 +5,122 @@
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "title": "Qual é o nome oficial do novo coronavírus?",
+      "description": "description",
+      "answer": 0,
+      "alternatives": [
+        "Sars-CoV-2",
+        "Covid-19",
+        "Gripe de Wuhan",
+        "Vírus chinês"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "O que significa o '19' em Covid-19?",
+      "description": "description",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "São as 19 moléculas que compõem o vírus",
+        "Este é o décimo nono coronavírus já identificado",
+        "É o ano em que esse coronavírus surgiu (2019)",
+        "É o período máximo de incubação do vírus"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Qual é o percentual de pessoas infectadas que se recuperam sem precisar ir ao hospital, segundo a Organização Mundial da Saúde?",
+      "description": "description",
+      "answer": 2,
+      "alternatives": [
+        "50%",
+        "60%",
+        "80%",
+        "90%"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Qual destes não é sintoma de Covid-19?",
+      "description": "description",
+      "answer": 3,
+      "alternatives": [
+        "Febre",
+        "Cansaço",
+        "Tosse seca",
+        "Visão embaçada"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "O que o vírus ataca quando entra no corpo humano?",
+      "description": "description",
+      "answer": 3,
+      "alternatives": [
+        "Antígenos",
+        "Góbulos brancos",
+        "Glóbulos vermelhos",
+        "Células da garganta e da laringe"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Quanto tempo o vírus se mantém ativo em superfícies de plástico e de metal?",
+      "description": "description",
+      "answer": 3,
+      "alternatives": [
+        "12h",
+        "24h",
+        "48h",
+        "72h"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Qual das doenças abaixo não é causada por um coronavírus?",
+      "description": "description",
+      "answer": 0,
+      "alternatives": [
+        "Infecções leves a moderadas comuns",
+        "VIH (Vírus da Imunodeficiência Humana)",
+        "SARS (Síndrome Respiratória Aguda Grave",
+        "MERS (Síndrome respiratória do Médio Oriente)"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Governos do mundo inteiro estão monitorando o número de 'R' para avaliar a necessidade de quarentena. O que é o 'R'?",
+      "description": "description",
+      "answer": 1,
+      "alternatives": [
+        "Racionamento da vacina",
+        "Número médio de pessoas para quem uma pessoa infectada pode passar o vírus",
+        "Porcentagem de mortes confirmadas por Covid-19",
+        "Porcentagem de população testada para o coronavírus"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Qual é o órgão do corpo que o coronavírus mais ataca?",
+      "description": "description",
+      "answer": 0,
+      "alternatives": [
+        "Pulmões",
+        "Fígado",
+        "Coração",
+        "Cérebro"
       ]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "title": "O que é mais eficiente para remover o coronavírus das mãos?",
+      "description": "description",
+      "answer": 1,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Álcool em gel",
+         "Água e sabão",
+         "Lenço umedecido",
+         "Lâmpadas UV"
       ]
     }
   ],
