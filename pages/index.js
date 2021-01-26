@@ -30,7 +30,7 @@ export default function Home() {
       <Head>
         <title>COVID 19 Quiz</title>
       </Head>
-      
+
       <QuizContainer>
         <QuizLogo />
         
@@ -50,7 +50,7 @@ export default function Home() {
                 //   setName(event.target.value)
                 // }}
                 onChange={event => setName(event.target.value)}
-                placeholder="Qual o seu nome?" 
+                placeholder="Diz aí seu nome pra jogar :)" 
               />
               <button type="submit" disabled={name.length === 0}>
                 Jogar {name}
