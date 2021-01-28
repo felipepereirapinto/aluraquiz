@@ -31,11 +31,8 @@ function ResultWidget({ results }) {
         <ul>
           {results.map((result, index) => (
             <li key={`result__${index}`}>
-              #
-              { index < 9 ? `0${index + 1}` : index +1}
-              {' '}
-              Resultado: 
-              {result ? ' Acertou' : ' Errou'}
+              <span>{ index < 9 ? `0${index + 1}) ` : `${index + 1}) `}</span>
+              <span>{ result ? 'Acertou' : 'Errou' }</span>
             </li>
           ))}
         </ul>
@@ -103,7 +100,7 @@ function QuestionWidget({
               onSubmit();
               setIsQuestionSubmited(false);
               setSelectedAlternative(undefined);
-            }, 3 * 1000);
+            }, 1000);
           }}
         >
           {question.alternatives.map((alternative, alternativeIndex) => {
@@ -133,10 +130,7 @@ function QuestionWidget({
 
           <Button type="submit" disabled={!hasAlternativeSelected}>
             Confirmar
-          </Button>
-
-          {isQuestionSubmited && isCorrect && <p>Você acertou!</p>}       
-          {isQuestionSubmited && !isCorrect && <p>Você errou!</p>}       
+          </Button>    
           
         </AlternativesForm>
       </Widget.Content>
