@@ -6,7 +6,7 @@
     {
       "image": "https://media.giphy.com/media/dVuyBgq2z5gVBkFtDc/giphy.gif",
       "title": "Qual é o nome oficial do novo coronavírus?",
-      "description": "description",
+      "description": "",
       "answer": 0,
       "alternatives": [
         "Sars-CoV-2",
@@ -18,7 +18,7 @@
     {
       "image": "https://media.giphy.com/media/RPqLAs6u4z0YUTsOCM/giphy.gif",
       "title": "O que significa o '19' em Covid-19?",
-      "description": "description",
+      "description": "",
       "answer": 2,
       "alternatives": [
         "São as 19 moléculas que compõem o vírus",
@@ -30,7 +30,7 @@
     {
       "image": "https://media.giphy.com/media/XD2tFPHUcJqK3H7nFq/giphy.gif",
       "title": "Qual é o percentual de pessoas infectadas que se recuperam sem precisar ir ao hospital, segundo a Organização Mundial da Saúde?",
-      "description": "description",
+      "description": "",
       "answer": 2,
       "alternatives": [
         "50%",
@@ -42,7 +42,7 @@
     {
       "image": "https://media.giphy.com/media/tNdOwwAYrFUHDi2uOV/giphy.gif",
       "title": "Qual destes não é sintoma de Covid-19?",
-      "description": "description",
+      "description": "",
       "answer": 3,
       "alternatives": [
         "Febre",
@@ -54,7 +54,7 @@
     {
       "image": "https://media.giphy.com/media/Yq8KGWBPEIZjHyhzgG/giphy.gif",
       "title": "O que o vírus ataca quando entra no corpo humano?",
-      "description": "description",
+      "description": "",
       "answer": 3,
       "alternatives": [
         "Antígenos",
@@ -66,7 +66,7 @@
     {
       "image": "https://media.giphy.com/media/QZsb7H2QVGpbX4FHWA/giphy.gif",
       "title": "Quanto tempo o vírus se mantém ativo em superfícies de plástico e de metal?",
-      "description": "description",
+      "description": "",
       "answer": 3,
       "alternatives": [
         "12h",
@@ -78,7 +78,7 @@
     {
       "image": "https://media.giphy.com/media/KeoRcYovftKiilrKir/giphy.gif",
       "title": "Qual das doenças abaixo não é causada por um coronavírus?",
-      "description": "description",
+      "description": "",
       "answer": 0,
       "alternatives": [
         "Infecções leves a moderadas comuns",
@@ -90,7 +90,7 @@
     {
       "image": "https://media.giphy.com/media/6R2mLi910HL4VXFwOG/giphy.gif",
       "title": "Governos do mundo inteiro estão monitorando o número de 'R' para avaliar a necessidade de quarentena. O que é o 'R'?",
-      "description": "description",
+      "description": "",
       "answer": 1,
       "alternatives": [
         "Racionamento da vacina",
@@ -102,7 +102,7 @@
     {
       "image": "https://media.giphy.com/media/aLQx9RYdXxNEgliwG4/giphy.gif",
       "title": "Qual é o órgão do corpo que o coronavírus mais ataca?",
-      "description": "description",
+      "description": "",
       "answer": 0,
       "alternatives": [
         "Pulmões",
@@ -114,7 +114,7 @@
     {
       "image": "https://media.giphy.com/media/TGXdPOgaor8CSrm42F/giphy.gif",
       "title": "O que é mais eficiente para remover o coronavírus das mãos?",
-      "description": "description",
+      "description": "",
       "answer": 1,
       "alternatives": [
          "Álcool em gel",
@@ -125,7 +125,10 @@
     }
   ],
   "external": [
-    ""
+    "https://covid19quiz.felipepereirapinto.vercel.app/",    
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+
   ],
   "theme": {
     "colors": {
